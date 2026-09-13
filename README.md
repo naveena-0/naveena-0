@@ -11,23 +11,26 @@
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <img src="./terminal.svg?v=4" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=5" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Computer Science Engineering undergraduate at **Mohan Babu University** (2023 – 2027) and a Full-Stack / Backend Developer passionate about building scalable microservices, robust cloud infrastructure, and AI-driven solutions.
+I am a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
 
-- 🎓 **Education:** B.Tech Computer Science Engineering @ **Mohan Babu University** (2023 – 2027)
-- 🌐 **Portfolio Website:** [naveena94.netlify.app](https://naveena94.netlify.app/)
-- 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) (Practicing DSA in Java)
-- 🔭 **Current Projects:** [Fire Alert Fixer](https://github.com/naveena-0) & [Road Inspection AI](https://github.com/naveena-0)
-- ☁️ **Cloud & DevOps:** Building automated multi-cloud drift detection with **Terraform + AWS**
-- 💡 **Core Interests:** Distributed Systems, Spring Boot Microservices, Cloud Architectures, and Applied AI/ML
-- 🤝 **Open to:** Software Engineering Internships, Full-Time SWE Roles, and Open Source Collaborations
-- ⚡ *Turning ideas into high-impact, robust software systems.*
+- 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University** (2023–2027)
+- 🌐 **Portfolio:** [naveena94.netlify.app](https://naveena94.netlify.app/)
+- 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) — *Practicing DSA with Java*
+- 🔭 **Current Projects:** [Fire Alert Fixer](https://github.com/naveena-0) and [Road Inspection AI](https://github.com/naveena-0)
+- ☁️ **Cloud & DevOps:** Exploring AWS, Docker, Terraform, and cloud infrastructure automation
+- 💻 **Development:** Working with Java, Spring Boot, React, JavaScript/TypeScript, Python, SQL, and REST APIs
+- 🤖 **AI/ML:** Exploring practical applications of Python, TensorFlow, YOLOv8, and OpenCV
+- 🧠 **Currently Learning:** Data Structures & Algorithms, backend development, SQL, cloud technologies, and software engineering practices
+- 🏀 **Beyond Tech:** University basketball player/captain, fitness, and reading
+- 🤝 **Open to:** Software Engineering Internships, Student Opportunities, Hackathons, and Meaningful Open Source Collaborations
+- ⚡ *Building consistently, learning by doing, and turning real-world problems into practical software solutions.*
 
 ---
 
@@ -71,7 +74,7 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University** (
 
 ---
 
-### 🧩 LeetCode & Coding Stats
+### 🧩 LeetCode & Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/naveena970/" target="_blank">
