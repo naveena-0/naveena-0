@@ -1,9 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="540px" font-size="14.5px">
 <style>
-  .ball   { fill: #f0883e; }   /* 🏀 Orange Basketball */
-  .jersey { fill: #3fb950; }   /* 🎽 Green Jersey */
-  .shoes  { fill: #ff79c6; }   /* 👟 Pink Shoes */
+  .ball   { fill: #f0883e; }   /* 🏀 Orange Ball */
+  .shoes  { fill: #c084fc; }   /* 👟 Purple Shoes */
+  .socks  { fill: #ffffff; }   /* 🧦 White Socks */
   .player { fill: #ffffff; }   /* ⛹️ Player, Hoop, Net (White) */
+  
+  /* 🌈 Rainbow Colors for Jersey & Lower (Shorts) */
+  .rb1 { fill: #ff5e7e; }      /* Red-Pink */
+  .rb2 { fill: #ff9f43; }      /* Orange */
+  .rb3 { fill: #feca57; }      /* Yellow */
+  .rb4 { fill: #1dd1a1; }      /* Green */
+  .rb5 { fill: #48dbfb; }      /* Cyan */
+  .rb6 { fill: #54a0ff; }      /* Blue */
+  .rb7 { fill: #9b59b6; }      /* Purple */
+  .rb8 { fill: #e056fd; }      /* Magenta */
+
   .key    { fill: #ffa657; }
   .value  { fill: #a5d6ff; }
   .accent { fill: #58a6ff; font-weight: bold; }
@@ -12,7 +23,7 @@
 </style>
 <rect width="985px" height="540px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
 
-<!-- ASCII Art (Multicolor Basketball Player) -->
+<!-- ASCII Art (Rainbow Slam Dunk) -->
 <text x="25" y="35">
 <tspan x="25" y="35" class="player">                                 ::=*   </tspan>
 <tspan x="25" y="55" class="player">                              :---:*%   </tspan>
@@ -24,17 +35,17 @@
 <tspan x="25" y="175"><tspan class="ball">    *#-              </tspan><tspan class="player">*++++%*++=:        </tspan></tspan>
 <tspan x="25" y="195" class="player">     *#*=: #%**+:    --:---             </tspan>
 <tspan x="25" y="215" class="player">      -*##*%%%%%+::                     </tspan>
-<tspan x="25" y="235"><tspan class="player">        </tspan><tspan class="jersey">:*%#@%######*-:                 </tspan></tspan>
-<tspan x="25" y="255"><tspan class="player">          </tspan><tspan class="jersey">-#@%%**##%+****=-:            </tspan></tspan>
-<tspan x="25" y="275"><tspan class="player">           </tspan><tspan class="jersey">:@@%%#%%#   </tspan><tspan class="player">:-=+++==-:::     </tspan></tspan>
-<tspan x="25" y="295"><tspan class="player">           </tspan><tspan class="jersey">:#%%%**##          </tspan><tspan class="player">-+-+*-    </tspan></tspan>
-<tspan x="25" y="315" class="player">           -%%#%*- -:                   </tspan>
-<tspan x="25" y="335" class="player">            #@@%%#-::-                  </tspan>
-<tspan x="25" y="355" class="player">           *%%%%#%@#**                  </tspan>
-<tspan x="25" y="375" class="player">   -+%%+::=*****#**+*-                  </tspan>
-<tspan x="25" y="395"><tspan class="shoes"> :+%@##*- </tspan><tspan class="player">:-+@%#= ::                    </tspan></tspan>
+<tspan x="25" y="235"><tspan class="player">        </tspan><tspan class="rb1">:*%#@%######*-:                 </tspan></tspan>
+<tspan x="25" y="255"><tspan class="player">          </tspan><tspan class="rb2">-#@%%**##%+****=-:            </tspan></tspan>
+<tspan x="25" y="275"><tspan class="player">           </tspan><tspan class="rb3">:@@%%#%%#   </tspan><tspan class="player">:-=+++==-:::     </tspan></tspan>
+<tspan x="25" y="295"><tspan class="player">           </tspan><tspan class="rb4">:#%%%**##          </tspan><tspan class="player">-+-+*-    </tspan></tspan>
+<tspan x="25" y="315"><tspan class="player">           </tspan><tspan class="rb5">-%%#%*- -:                   </tspan></tspan>
+<tspan x="25" y="335"><tspan class="player">            </tspan><tspan class="rb6">#@@%%#-::-                  </tspan></tspan>
+<tspan x="25" y="355"><tspan class="player">           </tspan><tspan class="rb7">*%%%%#%@#**                  </tspan></tspan>
+<tspan x="25" y="375"><tspan class="player">   </tspan><tspan class="rb8">-+%%+::=*****#**+*-                  </tspan></tspan>
+<tspan x="25" y="395"><tspan class="shoes"> :+%@##*- </tspan><tspan class="socks">:-+@%#= </tspan><tspan class="player">::                    </tspan></tspan>
 <tspan x="25" y="415"><tspan class="shoes"> :++:    </tspan><tspan class="player">:+%%*-                         </tspan></tspan>
-<tspan x="25" y="435" class="player">     ::-:-++:                           </tspan>
+<tspan x="25" y="435"><tspan class="socks">     ::-:-++:                           </tspan></tspan>
 <tspan x="25" y="455"><tspan class="shoes">    :=#%#*=                             </tspan></tspan>
 <tspan x="25" y="475"><tspan class="shoes">     :+%@-:                             </tspan></tspan>
 <tspan x="25" y="495"><tspan class="shoes">       ==                               </tspan></tspan>
