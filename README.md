@@ -7,11 +7,10 @@
       <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat-square" alt="Followers" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=flat-square" alt="Open to Internships" />
   </p>
 
-  <img src="./terminal.svg?v=13" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=14" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
@@ -23,12 +22,11 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 - 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University (2023–2027)**
 - 🌐 **Portfolio:** [naveena94.netlify.app](https://naveena94.netlify.app/)
 - 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) — Practicing DSA with Java
-- 🔭 **Featured Projects:** **[Fire Alert Fixer](https://github.com/naveena-0)** and **[Road Inspection AI](https://github.com/naveena-0)**
 - ☁️ **Cloud & DevOps:** Exploring **AWS, Docker, Terraform**, and cloud infrastructure automation
 - 💻 **Development:** Building backend and full-stack applications with a focus on practical software engineering
 - 🤖 **AI/ML:** Exploring practical applications of **Python, TensorFlow, YOLOv8, and OpenCV**
 - 🧠 **Currently Improving:** Data Structures & Algorithms, backend development, and problem solving
-- 🏀 **Beyond Tech:** University Basketball | Captain, fitness, and reading
+- 🏀 **Beyond Tech:** University Basketball Captain, fitness, and reading
 - 🤝 **Open to:** Software Engineering Internships, Student Opportunities, Hackathons, and Meaningful Open Source Collaborations
 
 ⚡ **Learning by building, solving real-world problems, and continuously improving as a software engineer.**
