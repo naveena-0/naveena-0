@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="540px" font-size="14.5px">
 <style>
-  .ball   { fill: #bc4c00; }   /* Orange Basketball */
-  .jersey { fill: #1a7f37; }   /* Green Jersey */
-  .shoes  { fill: #d1245e; }   /* Pink Shoes */
-  .player { fill: #24292f; }   /* Dark Player, Hoop, Net */
-  .key    { fill: #cf222e; }
-  .value  { fill: #0550ae; }
-  .accent { fill: #0969da; font-weight: bold; }
-  .comment{ fill: #6e7781; }
+  .ball   { fill: #f0883e; }   /* 🏀 Orange Basketball */
+  .jersey { fill: #3fb950; }   /* 🎽 Green Jersey */
+  .shoes  { fill: #ff79c6; }   /* 👟 Pink Shoes */
+  .player { fill: #ffffff; }   /* ⛹️ Player, Hoop, Net (White) */
+  .key    { fill: #ffa657; }
+  .value  { fill: #a5d6ff; }
+  .accent { fill: #58a6ff; font-weight: bold; }
+  .comment{ fill: #8b949e; }
   text, tspan { white-space: pre; }
 </style>
-<rect width="985px" height="540px" fill="#f6f8fa" rx="14" stroke="#d0d7de" stroke-width="1.5"/>
+<rect width="985px" height="540px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
 
 <!-- ASCII Art (Multicolor Basketball Player) -->
 <text x="25" y="35">
@@ -41,7 +41,7 @@
 </text>
 
 <!-- System Info -->
-<text x="470" y="35" fill="#24292f">
+<text x="470" y="35" fill="#c9d1d9">
 <tspan x="470" y="35" class="accent">naveena@developer</tspan><tspan class="comment"> ------------------------------</tspan>
 <tspan x="470" y="60" class="key">OS: ................... </tspan><tspan class="value">Windows 11, Linux (Ubuntu)</tspan>
 <tspan x="470" y="85" class="key">Role: ................. </tspan><tspan class="value">Full Stack &amp; Backend Developer</tspan>
