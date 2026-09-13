@@ -7,7 +7,76 @@
   
   /* 🌈 Rainbow Colors for Jersey & Lower (Shorts) */
   .rb1 { fill: #ff5e7e; }      /* Coral Red */
-  .rb2 { fill: #ff9f43; }      /* Warm Orange */
+  .rb2 { fill: #ff9f43; }      /* Warm Orange */<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="540px" font-size="14.5px">
+<style>
+  .ball   { fill: #f0883e; }   /* 🏀 Orange Basketball */
+  .jersey { fill: #3fb950; }   /* 🎽 Green Jersey */
+  .shoes  { fill: #ff79c6; }   /* 👟 Pink Shoes */
+  .player { fill: #ffffff; }   /* ⛹️ Player, Hoop, Net (White) */
+  .key    { fill: #ffa657; }
+  .value  { fill: #a5d6ff; }
+  .accent { fill: #58a6ff; font-weight: bold; }
+  .comment{ fill: #8b949e; }
+  text, tspan { white-space: pre; }
+</style>
+<rect width="985px" height="540px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
+
+<!-- ASCII Art (Multicolor Basketball Player) -->
+<text x="25" y="35">
+<tspan x="25" y="35" class="player">                                 ::=*   </tspan>
+<tspan x="25" y="55" class="player">                              :---:*%   </tspan>
+<tspan x="25" y="75" class="player">                           :--:    *%   </tspan>
+<tspan x="25" y="95" class="player">                          ==  :-+  *%:  </tspan>
+<tspan x="25" y="115"><tspan class="ball">    ::---:                </tspan><tspan class="player">=-:+: #: #@+  </tspan></tspan>
+<tspan x="25" y="135"><tspan class="ball">   -%%@@%@+       </tspan><tspan class="player">-++=+=++*###==*-=%@=  </tspan></tspan>
+<tspan x="25" y="155"><tspan class="ball">   -%#=++=:       </tspan><tspan class="player">:-++++**%%+@@@**+-:   </tspan></tspan>
+<tspan x="25" y="175"><tspan class="ball">    *#-              </tspan><tspan class="player">*++++%*++=:        </tspan></tspan>
+<tspan x="25" y="195" class="player">     *#*=: #%**+:    --:---             </tspan>
+<tspan x="25" y="215" class="player">      -*##*%%%%%+::                     </tspan>
+<tspan x="25" y="235"><tspan class="player">        </tspan><tspan class="jersey">:*%#@%######*-:                 </tspan></tspan>
+<tspan x="25" y="255"><tspan class="player">          </tspan><tspan class="jersey">-#@%%**##%+****=-:            </tspan></tspan>
+<tspan x="25" y="275"><tspan class="player">           </tspan><tspan class="jersey">:@@%%#%%#   </tspan><tspan class="player">:-=+++==-:::     </tspan></tspan>
+<tspan x="25" y="295"><tspan class="player">           </tspan><tspan class="jersey">:#%%%**##          </tspan><tspan class="player">-+-+*-    </tspan></tspan>
+<tspan x="25" y="315" class="player">           -%%#%*- -:                   </tspan>
+<tspan x="25" y="335" class="player">            #@@%%#-::-                  </tspan>
+<tspan x="25" y="355" class="player">           *%%%%#%@#**                  </tspan>
+<tspan x="25" y="375" class="player">   -+%%+::=*****#**+*-                  </tspan>
+<tspan x="25" y="395"><tspan class="shoes"> :+%@##*- </tspan><tspan class="player">:-+@%#= ::                    </tspan></tspan>
+<tspan x="25" y="415"><tspan class="shoes"> :++:    </tspan><tspan class="player">:+%%*-                         </tspan></tspan>
+<tspan x="25" y="435" class="player">     ::-:-++:                           </tspan>
+<tspan x="25" y="455"><tspan class="shoes">    :=#%#*=                             </tspan></tspan>
+<tspan x="25" y="475"><tspan class="shoes">     :+%@-:                             </tspan></tspan>
+<tspan x="25" y="495"><tspan class="shoes">       ==                               </tspan></tspan>
+</text>
+
+<!-- System Info -->
+<text x="470" y="35" fill="#c9d1d9">
+<tspan x="470" y="35" class="accent">naveena@developer</tspan><tspan class="comment"> ------------------------------</tspan>
+<tspan x="470" y="60" class="key">OS: ................... </tspan><tspan class="value">Windows 11, Linux (Ubuntu)</tspan>
+<tspan x="470" y="85" class="key">Role: ................. </tspan><tspan class="value">Full Stack &amp; Backend Developer</tspan>
+<tspan x="470" y="110" class="key">Focus: ................ </tspan><tspan class="value">Distributed Systems, Spring Boot, AI</tspan>
+<tspan x="470" y="135" class="key">IDE: .................. </tspan><tspan class="value">IntelliJ IDEA, VS Code, PyCharm</tspan>
+
+<tspan x="470" y="170" class="key">Languages.Backend: .... </tspan><tspan class="value">Java 21, Python, Node.js, Express</tspan>
+<tspan x="470" y="195" class="key">Languages.Frontend: ... </tspan><tspan class="value">TypeScript, JavaScript, HTML5, CSS3</tspan>
+<tspan x="470" y="220" class="key">Frameworks &amp; Tools: ... </tspan><tspan class="value">Spring Boot, Spring Cloud, Kafka, Docker</tspan>
+<tspan x="470" y="245" class="key">Databases &amp; Caching: .. </tspan><tspan class="value">PostgreSQL, Redis, MySQL</tspan>
+
+<tspan x="470" y="280" class="key">Hobbies.Tech: ......... </tspan><tspan class="value">Building Microservices, AI/ML Models</tspan>
+<tspan x="470" y="305" class="key">Hobbies.Personal: ..... </tspan><tspan class="value">Basketball, Fitness, Tech Reading</tspan>
+
+<tspan x="470" y="340" class="accent">Contact -----------------------------------------</tspan>
+<tspan x="470" y="365" class="key">GitHub: ............... </tspan><tspan class="value">github.com/naveena-0</tspan>
+<tspan x="470" y="390" class="key">LinkedIn: ............. </tspan><tspan class="value">linkedin.com/in/naveena</tspan>
+<tspan x="470" y="415" class="key">Email: ................ </tspan><tspan class="value">naveena@example.com</tspan>
+
+<tspan x="470" y="450" class="accent">Featured Projects -------------------------------</tspan>
+<tspan x="470" y="475" class="key">1. </tspan><tspan class="value">Distributed-quiz-application (Spring Boot + Kafka)</tspan>
+<tspan x="470" y="495" class="key">2. </tspan><tspan class="value">Ai-marketplace-backend (Spring AI + Redis)</tspan>
+<tspan x="470" y="515" class="key">3. </tspan><tspan class="value">clinical-decision-support-system (Python + AI)</tspan>
+</text>
+</svg>
+
   .rb3 { fill: #feca57; }      /* Golden Yellow */
   .rb4 { fill: #1dd1a1; }      /* Mint Green */
   .rb5 { fill: #48dbfb; }      /* Cyan Blue */
