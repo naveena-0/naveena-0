@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <img src="./terminal.svg?v=12" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=13" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
@@ -120,26 +120,26 @@ Computer vision pipeline for detecting road defects using **Python, YOLOv8, and 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://naveena94.netlify.app/" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kadapana-naveena" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/naveena970/" target="_blank" title="LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:manjulamanjuk07@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/naveena-0" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
+  <p>
+    <a href="https://naveena94.netlify.app/" target="_blank" title="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/kadapana-naveena" target="_blank" title="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/naveena970/" target="_blank" title="LeetCode">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="mailto:manjulamanjuk07@gmail.com" title="Email">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/naveena-0" target="_blank" title="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
   <p><i>Let's build something interesting.</i></p>
 </div>
