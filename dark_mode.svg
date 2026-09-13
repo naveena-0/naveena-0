@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="540px" font-size="14.5px">
 <style>
-  .ball   { fill: #f0883e; }   /* 🏀 Orange Ball */
-  .shoes  { fill: #c084fc; }   /* 👟 Purple Shoes */
-  .socks  { fill: #ffffff; }   /* 🧦 White Socks */
-  .player { fill: #ffffff; }   /* ⛹️ Player, Hoop, Net (White) */
+  .ball   { fill: #f0883e; font-weight: bold; }   /* 🏀 Orange Ball */
+  .shoes  { fill: #c084fc; font-weight: bold; }   /* 👟 Purple Shoes */
+  .socks  { fill: #ffffff; }                      /* 🧦 White Socks */
+  .player { fill: #ffffff; }                      /* ⛹️ Player, Hoop, Net */
   
   /* 🌈 Rainbow Colors for Jersey & Lower (Shorts) */
-  .rb1 { fill: #ff5e7e; }      /* Red-Pink */
-  .rb2 { fill: #ff9f43; }      /* Orange */
-  .rb3 { fill: #feca57; }      /* Yellow */
-  .rb4 { fill: #1dd1a1; }      /* Green */
-  .rb5 { fill: #48dbfb; }      /* Cyan */
-  .rb6 { fill: #54a0ff; }      /* Blue */
+  .rb1 { fill: #ff5e7e; }      /* Coral Red */
+  .rb2 { fill: #ff9f43; }      /* Warm Orange */
+  .rb3 { fill: #feca57; }      /* Golden Yellow */
+  .rb4 { fill: #1dd1a1; }      /* Mint Green */
+  .rb5 { fill: #48dbfb; }      /* Cyan Blue */
+  .rb6 { fill: #54a0ff; }      /* Electric Blue */
   .rb7 { fill: #9b59b6; }      /* Purple */
-  .rb8 { fill: #e056fd; }      /* Magenta */
+  .rb8 { fill: #e056fd; }      /* Neon Magenta */
 
   .key    { fill: #ffa657; }
   .value  { fill: #a5d6ff; }
