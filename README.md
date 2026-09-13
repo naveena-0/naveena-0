@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am **Kadapana Naveena Reddy**, a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
+I am **KADAPANA NAVEENA REDDY**, a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University** (2023–2027)
 - 🌐 **Portfolio:** [naveena94.netlify.app](https://naveena94.netlify.app/)
