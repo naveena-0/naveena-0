@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="1050px" height="670px" font-size="12.8px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="1050px" height="700px" font-size="12.8px">
 <style>
   .ball   { fill: #f0883e; font-weight: bold; }
   .shoes  { fill: #1d4ed8; font-weight: bold; }
@@ -18,60 +18,61 @@
   .comment{ fill: #8b949e; }
   text, tspan { white-space: pre; }
 </style>
-<rect width="1050px" height="670px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
+<rect width="1050px" height="700px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
 
-<text x="25" y="50">
-<tspan x="25" y="50" class="player">                                 ::=*   </tspan>
-<tspan x="25" y="74" class="player">                              :---:*%   </tspan>
-<tspan x="25" y="98" class="player">                           :--:    *%   </tspan>
-<tspan x="25" y="122" class="player">                          ==  :-+  *%:  </tspan>
-<tspan x="25" y="146"><tspan class="ball">    ::---:                </tspan><tspan class="player">=-:+: #: #@+  </tspan></tspan>
-<tspan x="25" y="170"><tspan class="ball">   -%%@@%@+       </tspan><tspan class="player">-++=+=++*###==*-=%@=  </tspan></tspan>
-<tspan x="25" y="194"><tspan class="ball">   -%#=++=:       </tspan><tspan class="player">:-++++**%%+@@@**+-:   </tspan></tspan>
-<tspan x="25" y="218"><tspan class="ball">    *#-              </tspan><tspan class="player">*++++%*++=:        </tspan></tspan>
-<tspan x="25" y="242" class="player">     *#*=: #%**+:    --:---             </tspan>
-<tspan x="25" y="266" class="player">      -*##*%%%%%+::                     </tspan>
-<tspan x="25" y="290"><tspan class="player">        </tspan><tspan class="rb1">:*%#@%######*-:                 </tspan></tspan>
-<tspan x="25" y="314"><tspan class="player">          </tspan><tspan class="rb2">-#@%%**##%+****=-:            </tspan></tspan>
-<tspan x="25" y="338"><tspan class="player">           </tspan><tspan class="rb3">:@@%%#%%#   </tspan><tspan class="player">:-=+++==-:::     </tspan></tspan>
-<tspan x="25" y="362"><tspan class="player">           </tspan><tspan class="rb4">:#%%%**##          </tspan><tspan class="player">-+-+*-    </tspan></tspan>
-<tspan x="25" y="386"><tspan class="player">           </tspan><tspan class="rb5">-%%#%*- -:                   </tspan></tspan>
-<tspan x="25" y="410"><tspan class="player">            </tspan><tspan class="rb6">#@@%%#-::-                  </tspan></tspan>
-<tspan x="25" y="434"><tspan class="player">           </tspan><tspan class="rb7">*%%%%#%@#**                  </tspan></tspan>
-<tspan x="25" y="458"><tspan class="player">   </tspan><tspan class="rb8">-+%%+::=*****#**+*-                  </tspan></tspan>
-<tspan x="25" y="482"><tspan class="shoes"> :+%@##*- </tspan><tspan class="socks">:-+@%#= </tspan><tspan class="player">::                    </tspan></tspan>
-<tspan x="25" y="506"><tspan class="shoes"> :++:    </tspan><tspan class="player">:+%%*-                         </tspan></tspan>
-<tspan x="25" y="530"><tspan class="socks">     ::-:-++:                           </tspan></tspan>
-<tspan x="25" y="554"><tspan class="shoes">    :=#%#*=                             </tspan></tspan>
-<tspan x="25" y="578"><tspan class="shoes">     :+%@-:                             </tspan></tspan>
-<tspan x="25" y="602"><tspan class="shoes">       ==                               </tspan></tspan>
+<text x="25" y="55">
+<tspan x="25" y="55" class="player">                                 ::=*   </tspan>
+<tspan x="25" y="79" class="player">                              :---:*%   </tspan>
+<tspan x="25" y="103" class="player">                           :--:    *%   </tspan>
+<tspan x="25" y="127" class="player">                          ==  :-+  *%:  </tspan>
+<tspan x="25" y="151"><tspan class="ball">    ::---:                </tspan><tspan class="player">=-:+: #: #@+  </tspan></tspan>
+<tspan x="25" y="175"><tspan class="ball">   -%%@@%@+       </tspan><tspan class="player">-++=+=++*###==*-=%@=  </tspan></tspan>
+<tspan x="25" y="199"><tspan class="ball">   -%#=++=:       </tspan><tspan class="player">:-++++**%%+@@@**+-:   </tspan></tspan>
+<tspan x="25" y="223"><tspan class="ball">    *#-              </tspan><tspan class="player">*++++%*++=:        </tspan></tspan>
+<tspan x="25" y="247" class="player">     *#*=: #%**+:    --:---             </tspan>
+<tspan x="25" y="271" class="player">      -*##*%%%%%+::                     </tspan>
+<tspan x="25" y="295"><tspan class="player">        </tspan><tspan class="rb1">:*%#@%######*-:                 </tspan></tspan>
+<tspan x="25" y="319"><tspan class="player">          </tspan><tspan class="rb2">-#@%%**##%+****=-:            </tspan></tspan>
+<tspan x="25" y="343"><tspan class="player">           </tspan><tspan class="rb3">:@@%%#%%#   </tspan><tspan class="player">:-=+++==-:::     </tspan></tspan>
+<tspan x="25" y="367"><tspan class="player">           </tspan><tspan class="rb4">:#%%%**##          </tspan><tspan class="player">-+-+*-    </tspan></tspan>
+<tspan x="25" y="391"><tspan class="player">           </tspan><tspan class="rb5">-%%#%*- -:                   </tspan></tspan>
+<tspan x="25" y="415"><tspan class="player">            </tspan><tspan class="rb6">#@@%%#-::-                  </tspan></tspan>
+<tspan x="25" y="439"><tspan class="player">           </tspan><tspan class="rb7">*%%%%#%@#**                  </tspan></tspan>
+<tspan x="25" y="463"><tspan class="player">   </tspan><tspan class="rb8">-+%%+::=*****#**+*-                  </tspan></tspan>
+<tspan x="25" y="487"><tspan class="shoes"> :+%@##*- </tspan><tspan class="socks">:-+@%#= </tspan><tspan class="player">::                    </tspan></tspan>
+<tspan x="25" y="511"><tspan class="shoes"> :++:    </tspan><tspan class="player">:+%%*-                         </tspan></tspan>
+<tspan x="25" y="535"><tspan class="socks">     ::-:-++:                           </tspan></tspan>
+<tspan x="25" y="559"><tspan class="shoes">    :=#%#*=                             </tspan></tspan>
+<tspan x="25" y="583"><tspan class="shoes">     :+%@-:                             </tspan></tspan>
+<tspan x="25" y="607"><tspan class="shoes">       ==                               </tspan></tspan>
 </text>
 
 <text x="420" y="36" fill="#c9d1d9">
 <tspan x="420" y="36" class="accent">naveena@developer</tspan><tspan class="comment"> ----------------------------------------------------</tspan>
 <tspan x="420" y="58" class="key">OS: ................ </tspan><tspan class="value">Windows 11, Linux (Ubuntu)</tspan>
-<tspan x="420" y="80" class="key">Role: .............. </tspan><tspan class="value">Computer Science Student | Aspiring Software Engineer</tspan>
-<tspan x="420" y="102" class="key">Focus: ............. </tspan><tspan class="value">Java, Spring Boot, Full-Stack Development, Cloud &amp; AI</tspan>
-<tspan x="420" y="124" class="key">IDE: ............... </tspan><tspan class="value">IntelliJ IDEA, VS Code, PyCharm</tspan>
+<tspan x="420" y="80" class="key">Education: ......... </tspan><tspan class="value">Mohan Babu University (2023 - 2027)</tspan>
+<tspan x="420" y="102" class="key">Role: .............. </tspan><tspan class="value">Computer Science Student | Aspiring Software Engineer</tspan>
+<tspan x="420" y="124" class="key">Focus: ............. </tspan><tspan class="value">Java, Spring Boot, Full-Stack Development, Cloud &amp; AI</tspan>
+<tspan x="420" y="146" class="key">IDE: ............... </tspan><tspan class="value">IntelliJ IDEA, VS Code, PyCharm</tspan>
 
-<tspan x="420" y="154" class="key">Languages.Backend: . </tspan><tspan class="value">Java, Python, JavaScript, Node.js</tspan>
-<tspan x="420" y="176" class="key">Languages.Frontend:  </tspan><tspan class="value">TypeScript, JavaScript, HTML5, CSS3</tspan>
-<tspan x="420" y="198" class="key">Frameworks &amp; Tools:  </tspan><tspan class="value">Spring Boot, React, Node.js, Express.js, Git, Docker, Postman</tspan>
-<tspan x="420" y="220" class="key">Databases: ......... </tspan><tspan class="value">MySQL, PostgreSQL, Supabase</tspan>
-<tspan x="420" y="242" class="key">Cloud: ............. </tspan><tspan class="value">AWS</tspan>
-<tspan x="420" y="264" class="key">Core: .............. </tspan><tspan class="value">Data Structures &amp; Algorithms, OOP, DBMS, REST APIs, CN</tspan>
+<tspan x="420" y="174" class="key">Languages.Backend: . </tspan><tspan class="value">Java, Python, JavaScript, Node.js</tspan>
+<tspan x="420" y="196" class="key">Languages.Frontend:  </tspan><tspan class="value">TypeScript, JavaScript, HTML5, CSS3</tspan>
+<tspan x="420" y="218" class="key">Frameworks &amp; Tools:  </tspan><tspan class="value">Spring Boot, React, Node.js, Express.js, Git, Docker, Postman</tspan>
+<tspan x="420" y="240" class="key">Databases &amp; Cloud: . </tspan><tspan class="value">MySQL, PostgreSQL, Supabase | AWS</tspan>
+<tspan x="420" y="262" class="key">Core: .............. </tspan><tspan class="value">Data Structures &amp; Algorithms, OOP, DBMS, REST APIs, CN</tspan>
 
-<tspan x="420" y="294" class="key">Hobbies.Tech: ...... </tspan><tspan class="value">Building Real-World Projects, DSA, Cloud &amp; AI/ML</tspan>
-<tspan x="420" y="316" class="key">Hobbies.Personal: .  </tspan><tspan class="value">Basketball, Fitness, Reading</tspan>
+<tspan x="420" y="290" class="key">Hobbies.Tech: ...... </tspan><tspan class="value">Building Real-World Projects, DSA, Cloud &amp; AI/ML</tspan>
+<tspan x="420" y="312" class="key">Hobbies.Personal: .  </tspan><tspan class="value">Basketball, Fitness, Reading</tspan>
 
-<tspan x="420" y="346" class="accent">Contact ---------------------------------------------------------------</tspan>
-<tspan x="420" y="368" class="key">GitHub: ............ </tspan><tspan class="value">github.com/naveena-0</tspan>
-<tspan x="420" y="390" class="key">LinkedIn: .......... </tspan><tspan class="value">linkedin.com/in/kadapana-naveena</tspan>
-<tspan x="420" y="412" class="key">Email: ............. </tspan><tspan class="value">manjulamanjuk07@gmail.com</tspan>
+<tspan x="420" y="340" class="accent">Contact ---------------------------------------------------------------</tspan>
+<tspan x="420" y="362" class="key">Portfolio: ......... </tspan><tspan class="value">naveena94.netlify.app</tspan>
+<tspan x="420" y="384" class="key">LinkedIn: .......... </tspan><tspan class="value">linkedin.com/in/kadapana-naveena</tspan>
+<tspan x="420" y="406" class="key">LeetCode: .......... </tspan><tspan class="value">leetcode.com/u/naveena970</tspan>
+<tspan x="420" y="428" class="key">Email: ............. </tspan><tspan class="value">manjulamanjuk07@gmail.com</tspan>
 
-<tspan x="420" y="442" class="accent">Featured Projects -----------------------------------------------------</tspan>
-<tspan x="420" y="466" class="key">1. </tspan><tspan class="value">Fire Alert Fixer — React + TypeScript + Supabase</tspan>
-<tspan x="420" y="490" class="key">2. </tspan><tspan class="value">Multi-Cloud Infrastructure Drift Detection — Terraform + AWS</tspan>
-<tspan x="420" y="514" class="key">3. </tspan><tspan class="value">Road Inspection AI — Python + YOLOv8 + OpenCV</tspan>
+<tspan x="420" y="456" class="accent">Featured Projects -----------------------------------------------------</tspan>
+<tspan x="420" y="480" class="key">1. </tspan><tspan class="value">Fire Alert Fixer — React + TypeScript + Supabase</tspan>
+<tspan x="420" y="504" class="key">2. </tspan><tspan class="value">Multi-Cloud Infrastructure Drift Detection — Terraform + AWS</tspan>
+<tspan x="420" y="528" class="key">3. </tspan><tspan class="value">Road Inspection AI — Python + YOLOv8 + OpenCV</tspan>
 </text>
 </svg>

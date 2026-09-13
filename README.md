@@ -1,26 +1,31 @@
 <div align="center">
   <h1>Hey 👋, I'm Kadapana Naveena Reddy</h1>
-  <p><b>Computer Science Student • Full Stack & Backend Developer • Aspiring Software Engineer</b></p>
+  <p><b>Computer Science Student • Full Stack &amp; Backend Developer • Aspiring Software Engineer</b></p>
   
   <p>
+    <a href="https://naveena94.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-naveena94.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat-square" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <img src="./terminal.svg" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=4" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Computer Science Engineering student and full-stack developer passionate about building scalable backend microservices, real-world cloud architectures, and AI-driven applications.
+I am a Computer Science Engineering undergraduate at **Mohan Babu University** (2023 – 2027) and a Full-Stack / Backend Developer passionate about building scalable microservices, robust cloud infrastructure, and AI-driven solutions.
 
-- 🔭 **Currently Building:** [Fire Alert Fixer](https://github.com/naveena-0) & [Road Inspection AI](https://github.com/naveena-0)
-- ☁️ **Cloud & DevOps:** Designing automated infrastructure drift detection with **Terraform + AWS**
-- 🧠 **Problem Solving:** Actively practicing **Data Structures & Algorithms in Java**
-- 💡 **Interests:** Distributed Systems, Spring Boot Microservices, Cloud Architectures, and Applied AI/ML
+- 🎓 **Education:** B.Tech Computer Science Engineering @ **Mohan Babu University** (2023 – 2027)
+- 🌐 **Portfolio Website:** [naveena94.netlify.app](https://naveena94.netlify.app/)
+- 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) (Practicing DSA in Java)
+- 🔭 **Current Projects:** [Fire Alert Fixer](https://github.com/naveena-0) & [Road Inspection AI](https://github.com/naveena-0)
+- ☁️ **Cloud & DevOps:** Building automated multi-cloud drift detection with **Terraform + AWS**
+- 💡 **Core Interests:** Distributed Systems, Spring Boot Microservices, Cloud Architectures, and Applied AI/ML
 - 🤝 **Open to:** Software Engineering Internships, Full-Time SWE Roles, and Open Source Collaborations
 - ⚡ *Turning ideas into high-impact, robust software systems.*
 
@@ -66,6 +71,16 @@ I am a Computer Science Engineering student and full-stack developer passionate 
 
 ---
 
+### 🧩 LeetCode & Coding Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/naveena970/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/naveena970?theme=dark&font=baloo" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats & Streak
 
 <div align="center">
@@ -104,25 +119,33 @@ I am a Computer Science Engineering student and full-stack developer passionate 
 
 ### 🚀 Featured Projects
 
-- 🚨 **Fire Alert Fixer** — Automated fire alert & response platform built with React, TypeScript, and Supabase.
-- ☁️ **Automated Multi-Cloud Drift Detection** — Cloud infrastructure governance & drift detection using Terraform, Python, and AWS.
-- 🛣️ **Road Inspection AI** — Computer vision road quality & defect detection pipeline using Python, YOLOv8, and OpenCV.
+- 🚨 **[Fire Alert Fixer](https://github.com/naveena-0)** — Automated fire alert & response platform built with React, TypeScript, and Supabase.
+- ☁️ **[Automated Multi-Cloud Infrastructure Drift Detection](https://github.com/naveena-0)** — Cloud infrastructure governance & drift detection using Terraform, Python, and AWS.
+- 🛣️ **[Road Inspection AI](https://github.com/naveena-0)** — Computer vision road quality & defect detection pipeline using Python, YOLOv8, and OpenCV.
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://naveena94.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kadapana-naveena" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/naveena970/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:manjulamanjuk07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/naveena-0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
