@@ -12,14 +12,14 @@
 
   <br/>
 
-  <img src="./terminal.svg?v=6" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=7" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
+I am **Kadapana Naveena Reddy**, a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University** (2023–2027)
 - 🌐 **Portfolio:** [naveena94.netlify.app](https://naveena94.netlify.app/)
