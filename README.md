@@ -1,81 +1,87 @@
 <div align="center">
-  <h1>Hey ! I'm KADAPANA NAVEENA REDDY </h1>
-  <p><b>Computer Science Student • Full Stack Developer • Aspiring Software Engineer</b></p>
-
+  <h1>Hey! I'm Naveena 👋</h1>
+  <p><b>Computer Science Engineering Student | Aspiring Software Engineer</b></p>
+  
   <p>
-    <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat" alt="Followers" />
     <a href="https://naveena94.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat-square" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <br/>
-
-  <img src="./terminal.svg?v=7" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=9" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a Computer Science Engineering undergraduate at **Mohan Babu University (2023–2027)**, building my skills in software engineering, backend development, cloud technologies, and AI/ML.
 
-- 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University** (2023–2027)
+- 🎓 **Education:** B.Tech in Computer Science Engineering @ **Mohan Babu University (2023–2027)**
 - 🌐 **Portfolio:** [naveena94.netlify.app](https://naveena94.netlify.app/)
-- 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) — *Practicing DSA with Java*
-- 🔭 **Current Projects:** [Fire Alert Fixer](https://github.com/naveena-0) and [Road Inspection AI](https://github.com/naveena-0)
-- ☁️ **Cloud & DevOps:** Exploring AWS, Docker, Terraform, and cloud infrastructure automation
-- 💻 **Development:** Working with Java, Spring Boot, React, JavaScript/TypeScript, Python, SQL, and REST APIs
-- 🤖 **AI/ML:** Exploring practical applications of Python, TensorFlow, YOLOv8, and OpenCV
-- 🧠 **Currently Learning:** Data Structures & Algorithms, backend development, SQL, cloud technologies, and software engineering practices
+- 🧩 **LeetCode:** [leetcode.com/u/naveena970](https://leetcode.com/u/naveena970/) — Practicing DSA with Java
+- 🔭 **Current Projects:** **Fire Alert Fixer** and **Road Inspection AI**
+- ☁️ **Cloud & DevOps:** Exploring **AWS, Docker, Terraform**, and cloud infrastructure automation
+- 💻 **Development:** Building backend and full-stack applications with a focus on practical software engineering
+- 🤖 **AI/ML:** Exploring practical applications of **Python, TensorFlow, YOLOv8, and OpenCV**
+- 🧠 **Currently Improving:** Data Structures & Algorithms, system design fundamentals, backend development, and problem solving
 - 🏀 **Beyond Tech:** University basketball player/captain, fitness, and reading
 - 🤝 **Open to:** Software Engineering Internships, Student Opportunities, Hackathons, and Meaningful Open Source Collaborations
-- ⚡ *Building consistently, learning by doing, and turning real-world problems into practical software solutions.*
+
+⚡ **Learning by building, solving real-world problems, and continuously improving as a software engineer.**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   <!-- Languages -->
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,html,css&perline=7" alt="Languages" />
+  <h3>Languages</h3>
+  <p><code>Java</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>C</code> • <code>SQL</code> • <code>HTML5</code> • <code>CSS3</code></p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,postgres,html,css&perline=8" alt="Languages" />
   
   <br/><br/>
 
   <!-- Frameworks & Technologies -->
-  <p><b>Frameworks & Technologies</b></p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tensorflow&perline=6" alt="Frameworks" />
+  <h3>Frameworks & Technologies</h3>
+  <p><code>Spring Boot</code> • <code>React</code> • <code>Node.js</code> • <code>Express.js</code> • <code>REST APIs</code> • <code>TensorFlow</code></p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tensorflow&perline=5" alt="Frameworks" />
 
   <br/><br/>
 
   <!-- Databases -->
-  <p><b>Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&perline=4" alt="Databases" />
+  <h3>Databases</h3>
+  <p><code>MySQL</code> • <code>PostgreSQL</code> • <code>Supabase</code></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&perline=3" alt="Databases" />
 
   <br/><br/>
 
   <!-- Tools & Cloud -->
-  <p><b>Tools & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,idea&perline=7" alt="Tools" />
+  <h3>Tools & Cloud</h3>
+  <p><code>Git</code> • <code>GitHub</code> • <code>Docker</code> • <code>AWS</code> • <code>Terraform</code> • <code>Postman</code> • <code>VS Code</code> • <code>IntelliJ IDEA</code></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,terraform,postman,vscode,idea&perline=8" alt="Tools" />
 
   <br/><br/>
 
-  <!-- Core Computer Science Concepts -->
-  <p><b>Core Concepts</b></p>
+  <!-- Core Concepts -->
+  <h3>Core Concepts</h3>
   <p>
-    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22&color=30363D" alt="DSA" />
+    <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22&color=30363D" alt="DSA" />
     <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=161B22&color=30363D" alt="OOP" />
     <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=161B22&color=30363D" alt="DBMS" />
-    <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=161B22&color=30363D" alt="OS" />
-    <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=161B22&color=30363D" alt="CN" />
+    <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=161B22&color=30363D" alt="Operating Systems" />
+    <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=161B22&color=30363D" alt="Computer Networks" />
   </p>
 </div>
 
 ---
 
-### 🧩 LeetCode & Problem Solving
+## 🧩 Problem Solving
+
+### LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/naveena970/" target="_blank">
@@ -85,7 +91,7 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 
 ---
 
-### 📊 GitHub Stats & Streak
+## 📊 GitHub Activity
 
 <div align="center">
   <!-- Stats Summary Card -->
@@ -96,10 +102,6 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 </div>
 
 <br/>
-
----
-
-### 📌 GitHub Overview & Activity
 
 <div align="center">
   <!-- GitHub Overview Card -->
@@ -121,15 +123,20 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🚨 **[Fire Alert Fixer](https://github.com/naveena-0)** — Automated fire alert & response platform built with React, TypeScript, and Supabase.
-- ☁️ **[Automated Multi-Cloud Infrastructure Drift Detection](https://github.com/naveena-0)** — Cloud infrastructure governance & drift detection using Terraform, Python, and AWS.
-- 🛣️ **[Road Inspection AI](https://github.com/naveena-0)** — Computer vision road quality & defect detection pipeline using Python, YOLOv8, and OpenCV.
+### 🚨 [Fire Alert Fixer](https://github.com/naveena-0)
+Real-time fire alert and response platform built with **React, TypeScript, and Supabase**.
+
+### ☁️ [Automated Multi-Cloud Infrastructure Drift Detection](https://github.com/naveena-0)
+Automated cloud infrastructure drift detection using **Terraform, Python, and AWS**.
+
+### 🛣️ [Road Inspection AI](https://github.com/naveena-0)
+Computer vision pipeline for detecting road defects using **Python, YOLOv8, and OpenCV**.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://naveena94.netlify.app/" target="_blank">
@@ -153,5 +160,6 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
   </a>
 
   <br/><br/>
+  <p><b>Portfolio</b> • <b>LinkedIn</b> • <b>LeetCode</b> • <b>Email</b> • <b>GitHub</b></p>
   <p><i>Let's build something interesting.</i></p>
 </div>
