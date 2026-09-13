@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naveena-0/naveena-0/main/dark_mode.svg?v=3" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
