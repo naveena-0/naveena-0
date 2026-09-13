@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <img src="./terminal.svg?v=10" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=11" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
@@ -84,8 +84,6 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 
 ## 🧩 Problem Solving
 
-### LeetCode Stats
-
 <div align="center">
   <a href="https://leetcode.com/u/naveena970/" target="_blank" title="LeetCode Profile">
     <img src="https://leetcard.jacoblin.cool/naveena970?theme=dark&font=baloo" alt="LeetCode Stats" />
@@ -97,31 +95,11 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 ## 📊 GitHub Activity
 
 <div align="center">
-  <!-- Stats Summary Card -->
+  <!-- GitHub Stats Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveena-0&theme=tokyonight" height="185" alt="GitHub Stats" />
   &nbsp;
-  <!-- Live Streak Card with Ring Gauge -->
+  <!-- GitHub Streak Card with Ring Gauge -->
   <img src="https://streak-stats.demolab.com?user=naveena-0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" height="185" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Overview Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveena-0&theme=tokyonight" height="185" alt="Profile Details" />
-  &nbsp;
-  <!-- Productive Time Activity Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveena-0&theme=tokyonight" height="185" alt="Productive Time" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages by Repo (Donut Chart) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveena-0&theme=tokyonight" height="185" alt="Top Languages by Repo" />
-  &nbsp;
-  <!-- Top Languages by Commit (Donut Chart) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveena-0&theme=tokyonight" height="185" alt="Top Languages by Commit" />
 </div>
 
 ---
