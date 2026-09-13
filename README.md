@@ -1,17 +1,18 @@
 <div align="center">
   <h1>Hey 👋, I'm Kadapana Naveena Reddy</h1>
-  <p><b>Computer Science Student • Full Stack &amp; Backend Developer • Aspiring Software Engineer</b></p>
-  
+  <p><b>Computer Science Student • Full Stack Developer • Aspiring Software Engineer</b></p>
+
   <p>
+    <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat" alt="Followers" />
     <a href="https://naveena94.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-naveena94.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/naveena-0?label=Followers&color=1877F2&style=flat-square" alt="Followers" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" alt="Status" />
   </p>
 
-  <img src="./terminal.svg?v=5" alt="Naveena's Terminal Profile" width="100%">
+  <br/>
+
+  <img src="./terminal.svg?v=6" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
