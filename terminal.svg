@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="1050px" height="715px" font-size="12.6px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Consolas, 'Courier New', monospace" width="1050px" height="715px" font-size="12.6px">
 <style>
   .ball   { fill: #f0883e; font-weight: bold; }
   .shoes  { fill: #1d4ed8; font-weight: bold; }
@@ -16,6 +16,8 @@
   .value  { fill: #a5d6ff; }
   .accent { fill: #58a6ff; font-weight: bold; }
   .comment{ fill: #8b949e; }
+  a { text-decoration: none; }
+  a:hover .value { fill: #58a6ff; text-decoration: underline; }
   text, tspan { white-space: pre; }
 </style>
 <rect width="1050px" height="715px" fill="#0d1117" rx="14" stroke="#30363d" stroke-width="1.5"/>
@@ -66,14 +68,14 @@
 <tspan x="420" y="334" class="key">Hobbies.Personal: .  </tspan><tspan class="value">University Basketball Captain, Fitness, Reading</tspan>
 
 <tspan x="420" y="362" class="accent">Contact ---------------------------------------------------------------</tspan>
-<tspan x="420" y="384" class="key">Portfolio: ......... </tspan><tspan class="value">naveena94.netlify.app</tspan>
-<tspan x="420" y="406" class="key">LinkedIn: .......... </tspan><tspan class="value">linkedin.com/in/kadapana-naveena</tspan>
-<tspan x="420" y="428" class="key">LeetCode: .......... </tspan><tspan class="value">leetcode.com/u/naveena970</tspan>
-<tspan x="420" y="450" class="key">Email: ............. </tspan><tspan class="value">manjulamanjuk07@gmail.com</tspan>
+<a href="https://naveena94.netlify.app/" target="_blank"><tspan x="420" y="384" class="key">Portfolio: ......... </tspan><tspan class="value">naveena94.netlify.app</tspan></a>
+<a href="https://www.linkedin.com/in/kadapana-naveena/" target="_blank"><tspan x="420" y="406" class="key">LinkedIn: .......... </tspan><tspan class="value">linkedin.com/in/kadapana-naveena</tspan></a>
+<a href="https://leetcode.com/u/naveena970/" target="_blank"><tspan x="420" y="428" class="key">LeetCode: .......... </tspan><tspan class="value">leetcode.com/u/naveena970</tspan></a>
+<a href="mailto:manjulamanjuk07@gmail.com"><tspan x="420" y="450" class="key">Email: ............. </tspan><tspan class="value">manjulamanjuk07@gmail.com</tspan></a>
 
 <tspan x="420" y="478" class="accent">Featured Projects -----------------------------------------------------</tspan>
-<tspan x="420" y="502" class="key">1. </tspan><tspan class="value">Fire Alert Fixer — React + TypeScript + Supabase</tspan>
-<tspan x="420" y="526" class="key">2. </tspan><tspan class="value">Multi-Cloud Infrastructure Drift Detection — Terraform + AWS</tspan>
-<tspan x="420" y="550" class="key">3. </tspan><tspan class="value">Road Inspection AI — Python + YOLOv8 + OpenCV</tspan>
+<a href="https://github.com/naveena-0/react-face-access" target="_blank"><tspan x="420" y="502" class="key">1. </tspan><tspan class="value">Fire Alert Fixer — React + TypeScript + Supabase</tspan></a>
+<a href="https://github.com/naveena-0" target="_blank"><tspan x="420" y="526" class="key">2. </tspan><tspan class="value">Multi-Cloud Infrastructure Drift Detection — Terraform + AWS</tspan></a>
+<a href="https://github.com/naveena-0" target="_blank"><tspan x="420" y="550" class="key">3. </tspan><tspan class="value">Road Inspection AI — Python + YOLOv8 + OpenCV</tspan></a>
 </text>
 </svg>

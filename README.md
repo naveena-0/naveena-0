@@ -3,14 +3,14 @@
   <p><b>Computer Science Engineering Student | Aspiring Software Engineer</b></p>
   
   <p>
-    <a href="https://naveena94.netlify.app/" target="_blank">
+    <a href="https://naveena94.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=naveena-0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=flat-square" alt="Open to Internships" />
   </p>
 
-  <img src="./terminal.svg?v=14" alt="Naveena's Terminal Profile" width="100%">
+  <img src="./terminal.svg?v=15" alt="Naveena's Terminal Profile" width="100%">
 </div>
 
 ---
@@ -37,36 +37,36 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 
 <div align="center">
   <p><b>Languages</b></p>
-  <a href="https://www.java.com" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" /></a>
-  <a href="https://www.python.org" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C" /></a>
-  <a href="https://www.postgresql.org" target="_blank" title="SQL"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="SQL" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="SQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" /></a>
 
   <p><b>Frameworks &amp; Technologies</b></p>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot" /></a>
-  <a href="https://react.dev" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /></a>
-  <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="42" alt="Express.js" /></a>
-  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="TensorFlow" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="42" alt="Express.js" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="TensorFlow" /></a>
 
   <p><b>Databases</b></p>
-  <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" /></a>
-  <a href="https://supabase.com" target="_blank" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="42" alt="Supabase" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="42" alt="Supabase" /></a>
 
   <p><b>Tools &amp; Cloud</b></p>
-  <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /></a>
-  <a href="https://github.com" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
-  <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /></a>
-  <a href="https://aws.amazon.com" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" /></a>
-  <a href="https://www.terraform.io" target="_blank" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" /></a>
-  <a href="https://www.postman.com" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" /></a>
-  <a href="https://code.visualstudio.com" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /></a>
+  <a href="https://github.com/naveena-0"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" /></a>
+  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA" /></a>
 
   <p><b>Core Concepts</b></p>
   <p>
@@ -83,7 +83,7 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 ## 🧩 Problem Solving
 
 <div align="center">
-  <a href="https://leetcode.com/u/naveena970/" target="_blank" title="LeetCode Profile">
+  <a href="https://leetcode.com/u/naveena970/">
     <img src="https://leetcard.jacoblin.cool/naveena970?theme=dark&font=baloo" alt="LeetCode Stats" />
   </a>
 </div>
@@ -104,7 +104,7 @@ I am a Computer Science Engineering undergraduate at **Mohan Babu University (20
 
 ## 🚀 Featured Projects
 
-### 🚨 [Fire Alert Fixer](https://github.com/naveena-0)
+### 🚨 [Fire Alert Fixer](https://github.com/naveena-0/react-face-access)
 Real-time fire alert and response platform built with **React, TypeScript, and Supabase**.
 
 ### ☁️ [Automated Multi-Cloud Infrastructure Drift Detection](https://github.com/naveena-0)
@@ -118,26 +118,19 @@ Computer vision pipeline for detecting road defects using **Python, YOLOv8, and 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <p>
-    <a href="https://naveena94.netlify.app/" target="_blank" title="Portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/kadapana-naveena" target="_blank" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/naveena970/" target="_blank" title="LeetCode">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    &nbsp;
-    <a href="mailto:manjulamanjuk07@gmail.com" title="Email">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/naveena-0" target="_blank" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-  <p><i>Let's build something interesting.</i></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://naveena94.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadapana-naveena/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveena970/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjulamanjuk07@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveena-0)
+
+<br/>
+
+*Let's build something interesting.*
+
 </div>
